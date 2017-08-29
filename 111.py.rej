@@ -1,0 +1,9 @@
+diff a/111.py b/111.py	(rejected hunks)
+@@ -15,5 +15,5 @@
+         print ("拜拜了")
+     
+ ###############################
+-#creat a new branch is quick
+-#creat a new branch is quick & simple
++#creat a new branch is quick and simple
++
